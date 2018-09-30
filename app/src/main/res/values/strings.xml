@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoobCalc</string>
+    <string name="button_zero">0</string>
+    <string name="button_one">1</string>
+</resources>
